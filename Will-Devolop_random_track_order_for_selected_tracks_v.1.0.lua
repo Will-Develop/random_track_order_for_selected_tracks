@@ -2,7 +2,7 @@
   INFO:
     - ReaScript Name: random track order for selected tracks
     - Author: Will Develop 
-    - Website: https://www.will-records.tk
+    - Website: https://www.willrecords.tk
     - REAPER: 6.02
     - Version: 1.0
   
